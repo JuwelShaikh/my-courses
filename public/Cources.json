@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "course_name": "Introduction to Python",
+        "course_details": "A beginner's course in Python programming.",
+        "price": 49,
+        "cover": "https://example.com/python.jpg",
+        "time": 4
+    },
+    {
+        "id": 2,
+        "course_name": "Advanced JavaScript",
+        "course_details": "Deep dive into advanced JavaScript concepts.",
+        "price": 79,
+        "cover": "https://example.com/javascript.jpg",
+        "time": 6
+    },
+    {
+        "id": 3,
+        "course_name": "Web Development Bootcamp",
+        "course_details": "Comprehensive web development course.",
+        "price": 99,
+        "cover": "https://example.com/webdev.jpg",
+        "time": 12
+    },
+    {
+        "id": 4,
+        "course_name": "Data Science with R",
+        "course_details": "Learn data science using R programming.",
+        "price": 59,
+        "cover": "https://example.com/datascience.jpg",
+        "time": 8
+    },
+    {
+        "id": 5,
+        "course_name": "Machine Learning A-Z",
+        "course_details": "Complete guide to machine learning concepts and applications.",
+        "price": 89,
+        "cover": "https://example.com/machinelearning.jpg",
+        "time": 10
+    },
+    {
+        "id": 6,
+        "course_name": "UI/UX Design Fundamentals",
+        "course_details": "Learn the basics of UI/UX design.",
+        "price": 45,
+        "cover": "https://example.com/uiux.jpg",
+        "time": 5
+    },
+    {
+        "id": 7,
+        "course_name": "Cybersecurity Essentials",
+        "course_details": "Fundamental concepts of cybersecurity.",
+        "price": 69,
+        "cover": "https://example.com/cybersecurity.jpg",
+        "time": 7
+    },
+    {
+        "id": 8,
+        "course_name": "Digital Marketing Mastery",
+        "course_details": "Master digital marketing techniques and strategies.",
+        "price": 79,
+        "cover": "https://example.com/digitalmarketing.jpg",
+        "time": 8
+    },
+    {
+        "id": 9,
+        "course_name": "Cloud Computing with AWS",
+        "course_details": "Learn cloud computing using AWS.",
+        "price": 99,
+        "cover": "https://example.com/cloudcomputing.jpg",
+        "time": 9
+    }
+]
