@@ -4,7 +4,7 @@
         "course_name": "Introduction to Python",
         "course_details": "A beginner's course in Python programming.",
         "price": 49,
-        "cover": "https://example.com/python.jpg",
+        "cover": "../src/assets/Rectangle 2-1.png",
         "time": 4
     },
     {
@@ -12,7 +12,7 @@
         "course_name": "Advanced JavaScript",
         "course_details": "Deep dive into advanced JavaScript concepts.",
         "price": 79,
-        "cover": "https://example.com/javascript.jpg",
+        "cover": "../src/assets/Rectangle 2-2.png",
         "time": 6
     },
     {
@@ -20,7 +20,7 @@
         "course_name": "Web Development Bootcamp",
         "course_details": "Comprehensive web development course.",
         "price": 99,
-        "cover": "https://example.com/webdev.jpg",
+        "cover": "../src/assets/Rectangle 2-3.png",
         "time": 12
     },
     {
@@ -28,7 +28,7 @@
         "course_name": "Data Science with R",
         "course_details": "Learn data science using R programming.",
         "price": 59,
-        "cover": "https://example.com/datascience.jpg",
+        "cover": "../src/assets/Rectangle 2-4.png",
         "time": 8
     },
     {
@@ -36,7 +36,7 @@
         "course_name": "Machine Learning A-Z",
         "course_details": "Complete guide to machine learning concepts and applications.",
         "price": 89,
-        "cover": "https://example.com/machinelearning.jpg",
+        "cover": "../src/assets/Rectangle 2-5.png",
         "time": 10
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "UI/UX Design Fundamentals",
         "course_details": "Learn the basics of UI/UX design.",
         "price": 45,
-        "cover": "https://example.com/uiux.jpg",
+        "cover": "../src/assets/Rectangle 2-6.png",
         "time": 5
     },
     {
@@ -52,7 +52,7 @@
         "course_name": "Cybersecurity Essentials",
         "course_details": "Fundamental concepts of cybersecurity.",
         "price": 69,
-        "cover": "https://example.com/cybersecurity.jpg",
+        "cover": "../src/assets/Rectangle 2.png",
         "time": 7
     },
     {
@@ -60,7 +60,7 @@
         "course_name": "Digital Marketing Mastery",
         "course_details": "Master digital marketing techniques and strategies.",
         "price": 79,
-        "cover": "https://example.com/digitalmarketing.jpg",
+        "cover": "../src/assets/Rectangle 3-1.png",
         "time": 8
     },
     {
@@ -68,7 +68,7 @@
         "course_name": "Cloud Computing with AWS",
         "course_details": "Learn cloud computing using AWS.",
         "price": 99,
-        "cover": "https://example.com/cloudcomputing.jpg",
+        "cover": "../src/assets/Rectangle 3.png",
         "time": 9
     }
 ]
