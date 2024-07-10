@@ -9,12 +9,12 @@ const Courses = () => {
     useEffect(() => {
         fetch('Courses.json')
             .then(res => res.json())
-            .then(data => console.log(data))
+            .then(data => setCourses(data))
     }, [])
 
     return (
         <div>
-
+            <h2 className="text-xl">Total courses: {courses.length}</h2>
         </div>
     );
 };
