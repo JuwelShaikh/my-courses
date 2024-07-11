@@ -2,7 +2,7 @@
     {
         "id": 1,
         "course_name": "Introduction to Python",
-        "course_details": "A beginner's course in Python programming.An introductory course on computer science principles, programming in Python, and problem-solving..",
+        "course_details": "A beginner's course in Python programming.An introductory course on computer science principles, ",
         "price": 49,
         "cover": "../src/assets/Rectangle 2-1.png",
         "time": 4
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "course_name": "Advanced JavaScript",
-        "course_details": "Deep dive into advanced JavaScript conceptsAn introductory course on computer science principles, programming in Python, and problem-solving...",
+        "course_details": "Deep dive into advanced JavaScript conceptsAn introductory course on computer science principles, ",
         "price": 79,
         "cover": "../src/assets/Rectangle 2-2.png",
         "time": 6
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "course_name": "Web Development Bootcamp",
-        "course_details": "Comprehensive web development course.An introductory course on computer science principles, programming in Python, and problem-solving..",
+        "course_details": "An introductory course on computer science principles, programming in Python, and problem-solving..",
         "price": 99,
         "cover": "../src/assets/Rectangle 2-3.png",
         "time": 12
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "course_name": "Data Science with R",
-        "course_details": "Learn data science using R programming.An introductory course on computer science principles, programming in Python, and problem-solving..",
+        "course_details": "Learn data science using R programming.An introductory course on computer science principles, programming in Python..",
         "price": 59,
         "cover": "../src/assets/Rectangle 2-4.png",
         "time": 8
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "course_name": "UI/UX Design Fundamentals",
-        "course_details": "Learn the basics of UI/UX design.An introductory course on computer science principles, programming in Python, and problem-solving..",
+        "course_details": "Learn the basics of UI/UX design.An introductory course on computer science principles, programming.",
         "price": 45,
         "cover": "../src/assets/Rectangle 2-6.png",
         "time": 5

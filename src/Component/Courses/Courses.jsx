@@ -14,9 +14,9 @@ const Courses = () => {
     }, [])
 
     return (
-        <div className='md:w-2/3 border-2 my-5'> 
-            <h2 className="text-xl">Total courses: {courses.length}</h2>
-            <div>
+        <div className='md:w-2/3 my-5'> 
+            <h2 className="text-xl m-5">Total courses: {courses.length}</h2>
+            <div className=" grid grid-cols-3 gap-2">
                 {
                     courses.map(course => <Course key={course.id} course={course}/>)
                 }
