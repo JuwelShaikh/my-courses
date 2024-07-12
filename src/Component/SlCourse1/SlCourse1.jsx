@@ -1,6 +1,6 @@
 
 
-const SlCourse1 = (SlC) => {
+const SlCourse1 = ({SlC}) => {
 
     const {course_name}=SlC
 
