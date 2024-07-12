@@ -34,7 +34,7 @@
     {
         "id": 5,
         "course_name": "Machine Learning A-Z",
-        "course_details": "Complete guide to machine learning concepts and applications.An introductory course on computer science principles, programming in Python, and problem-solving..",
+        "course_details": "Complete guide to machine learning concepts and computer science principles, programming in Python, and problem-solving..",
         "price": 89,
         "cover": "../src/assets/Rectangle 2-5.png",
         "time": 10
