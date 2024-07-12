@@ -6,7 +6,7 @@ const Course = ({ course, handleSlCourse }) => {
     const { course_name, course_details, price, cover, time } = course;
 
     return (
-        <div className='bg-gray-300  shadow rounded-md p-3 items-center border-black'>
+        <div className='bg-gray-300  shadow rounded-md p-3 items-center'>
             <img src={cover} alt="cover of the course name" />
             <h2 className="text-lg font-bold">{course_name}</h2>
             <p className="h-36 mt-2 py-3 px-1 bg-white rounded-md">{course_details}</p>
