@@ -3,7 +3,7 @@ import { useState } from "react";
 import Course from "../Course/Course";
 
 
-const Courses = () => {
+const Courses = ({handleSlCourse}) => {
 
     const [courses, setCourses] = useState([]);
 
@@ -18,7 +18,7 @@ const Courses = () => {
             <h2 className="text-xl m-5">Total courses: {courses.length}</h2>
             <div className="md:auto-cols-auto grid grid-cols-3 gap-3">
                 {
-                    courses.map(course => <Course key={course.id} course={course}/>)
+                    courses.map(course => <Course key={course.id} course={course} handleSlCourse={handleSlCourse}/>)
                 }
             </div>
         </div>

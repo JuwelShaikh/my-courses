@@ -1,7 +1,7 @@
 import { FiDollarSign } from "react-icons/fi";
 import { IoBookOutline } from "react-icons/io5";
 
-const Course = ({ course }) => {
+const Course = ({ course, handleSlCourse }) => {
 
     const { course_name, course_details, price, cover, time } = course;
 
@@ -12,9 +12,9 @@ const Course = ({ course }) => {
             <p className="h-36 mt-2 py-3 px-1 bg-white rounded-md">{course_details}</p>
             <div className="flex justify-between my-4">
                 <p className="flex items-center"><FiDollarSign /> price: {price}</p>
-                <p className="flex items-center"><IoBookOutline/> Credit: {time}</p>
+                <p className="flex items-center"><IoBookOutline /> Credit: {time}</p>
             </div>
-            <button className="w-full bg-blue-500 rounded-md p-2 font-semibold">Select</button>
+            <button onClick={() => handleSlCourse(course)} className="w-full bg-blue-500 rounded-md p-2 font-semibold">Select</button>
         </div>
     );
 };
