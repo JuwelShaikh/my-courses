@@ -8,8 +8,8 @@ import SCourse from './Component/Seleceted course/SCourse'
 function App() {
 
   const [SlCourse, setSlCourse] = useState([])
-  const [cPrice, setPrice] =useState(0);
-  const [cTime , setTime] = useState(0);
+  const [cPrice, setPrice] = useState(0);
+  const [cTime, setTime] = useState(0);
 
   const handleSlCourse = (course, price, time) => {
 
@@ -29,11 +29,11 @@ function App() {
       <Header />
       <div className='flex'>
         <Courses handleSlCourse={handleSlCourse} />
-        <SCourse 
-        SlCourse={SlCourse}
-        cPrice={cPrice}
-        cTime={cTime}
-         />
+        <SCourse
+          SlCourse={SlCourse}
+          cPrice={cPrice}
+          cTime={cTime}
+        />
       </div>
     </div>
   )
